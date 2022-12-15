@@ -36,4 +36,5 @@ TypeScript is a programming language developed and maintained by Microsoft. It i
 Ruby is a pure object-oriented programming language. It was created in 1993 by Yukihiro Matsumoto of Japan. Ruby is open-source and is freely available on the Web, but it is subject to a license.  
 
 
+"Hello World" is famously known to be almost all programmers' very first line of code. There are a variety of ways to write this program, depending on the language you decide to use. In this repository, I covered the line of code written in some of the most common programming languages and give some information on what the language can be used for!
 
